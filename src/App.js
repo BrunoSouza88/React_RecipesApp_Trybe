@@ -13,6 +13,9 @@ import RecipeDetails from './components/RecipeDetails';
 import Meals from './pages/Meals';
 
 function App() {
+  useEffect(() => {
+    document.title = 'Recipes App';
+  }, []);
   return (
     <div>
       {/* <span className="logo">TRYBE</span>
