@@ -14,6 +14,10 @@
   <li>JavaScript</li>
 </ul>
 
+<h2>Project Development</h2>
+
+<p>This project was developed in a group, following Agile methodologies such as Scrum and using Kanban boards (Trello) for project management.</p>
+
 <h2>Prerequisites</h2>
 
 <p>Before you begin, ensure that you meet the following requirements:</p>
